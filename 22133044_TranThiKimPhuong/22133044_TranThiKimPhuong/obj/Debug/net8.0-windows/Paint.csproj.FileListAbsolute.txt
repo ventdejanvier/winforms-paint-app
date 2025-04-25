@@ -1,0 +1,16 @@
+D:\winform\GIUA KY\22133044_TranThiKimPhuong\22133044_TranThiKimPhuong\22133044_TranThiKimPhuong\bin\Debug\net8.0-windows\Paint.exe
+D:\winform\GIUA KY\22133044_TranThiKimPhuong\22133044_TranThiKimPhuong\22133044_TranThiKimPhuong\bin\Debug\net8.0-windows\Paint.deps.json
+D:\winform\GIUA KY\22133044_TranThiKimPhuong\22133044_TranThiKimPhuong\22133044_TranThiKimPhuong\bin\Debug\net8.0-windows\Paint.runtimeconfig.json
+D:\winform\GIUA KY\22133044_TranThiKimPhuong\22133044_TranThiKimPhuong\22133044_TranThiKimPhuong\bin\Debug\net8.0-windows\Paint.dll
+D:\winform\GIUA KY\22133044_TranThiKimPhuong\22133044_TranThiKimPhuong\22133044_TranThiKimPhuong\bin\Debug\net8.0-windows\Paint.pdb
+D:\winform\GIUA KY\22133044_TranThiKimPhuong\22133044_TranThiKimPhuong\22133044_TranThiKimPhuong\obj\Debug\net8.0-windows\Paint.csproj.GenerateResource.cache
+D:\winform\GIUA KY\22133044_TranThiKimPhuong\22133044_TranThiKimPhuong\22133044_TranThiKimPhuong\obj\Debug\net8.0-windows\Paint.GeneratedMSBuildEditorConfig.editorconfig
+D:\winform\GIUA KY\22133044_TranThiKimPhuong\22133044_TranThiKimPhuong\22133044_TranThiKimPhuong\obj\Debug\net8.0-windows\Paint.AssemblyInfoInputs.cache
+D:\winform\GIUA KY\22133044_TranThiKimPhuong\22133044_TranThiKimPhuong\22133044_TranThiKimPhuong\obj\Debug\net8.0-windows\Paint.AssemblyInfo.cs
+D:\winform\GIUA KY\22133044_TranThiKimPhuong\22133044_TranThiKimPhuong\22133044_TranThiKimPhuong\obj\Debug\net8.0-windows\Paint.csproj.CoreCompileInputs.cache
+D:\winform\GIUA KY\22133044_TranThiKimPhuong\22133044_TranThiKimPhuong\22133044_TranThiKimPhuong\obj\Debug\net8.0-windows\Paint.dll
+D:\winform\GIUA KY\22133044_TranThiKimPhuong\22133044_TranThiKimPhuong\22133044_TranThiKimPhuong\obj\Debug\net8.0-windows\refint\Paint.dll
+D:\winform\GIUA KY\22133044_TranThiKimPhuong\22133044_TranThiKimPhuong\22133044_TranThiKimPhuong\obj\Debug\net8.0-windows\Paint.pdb
+D:\winform\GIUA KY\22133044_TranThiKimPhuong\22133044_TranThiKimPhuong\22133044_TranThiKimPhuong\obj\Debug\net8.0-windows\Paint.genruntimeconfig.cache
+D:\winform\GIUA KY\22133044_TranThiKimPhuong\22133044_TranThiKimPhuong\22133044_TranThiKimPhuong\obj\Debug\net8.0-windows\ref\Paint.dll
+D:\winform\GIUA KY\22133044_TranThiKimPhuong\22133044_TranThiKimPhuong\22133044_TranThiKimPhuong\obj\Debug\net8.0-windows\_22133044_TranThiKimPhuong.frmPaint.resources
